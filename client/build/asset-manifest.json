@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c23cb77e.chunk.css",
+    "main.js": "/static/js/main.1dd3cb93.chunk.js",
+    "main.js.map": "/static/js/main.1dd3cb93.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.25f416f2.chunk.js": "/static/js/2.25f416f2.chunk.js",
+    "static/js/2.25f416f2.chunk.js.map": "/static/js/2.25f416f2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ee217723c9661c1d3a63b7706c933953.js": "/precache-manifest.ee217723c9661c1d3a63b7706c933953.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c23cb77e.chunk.css.map": "/static/css/main.c23cb77e.chunk.css.map",
+    "static/js/2.25f416f2.chunk.js.LICENSE.txt": "/static/js/2.25f416f2.chunk.js.LICENSE.txt",
+    "static/media/cart.svg": "/static/media/cart.8bf1af37.svg",
+    "static/media/close.svg": "/static/media/close.2c5552a1.svg",
+    "static/media/menu.svg": "/static/media/menu.b3f49afd.svg",
+    "static/media/index.css": "/static/media/the-latin-everything-background.c89ef9d8.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.25f416f2.chunk.js",
+    "static/css/main.c23cb77e.chunk.css",
+    "static/js/main.1dd3cb93.chunk.js"
+  ]
+}
